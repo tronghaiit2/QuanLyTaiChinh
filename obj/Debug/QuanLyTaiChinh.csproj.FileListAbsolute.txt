@@ -1,0 +1,243 @@
+D:\C-sharp\QuanLyTaiChinh\bin\Debug\QuanLyTaiChinh.exe.config
+D:\C-sharp\QuanLyTaiChinh\bin\Debug\QuanLyTaiChinh.exe
+D:\C-sharp\QuanLyTaiChinh\bin\Debug\QuanLyTaiChinh.pdb
+D:\C-sharp\QuanLyTaiChinh\bin\Debug\EasyHTMLReports.dll
+D:\C-sharp\QuanLyTaiChinh\bin\Debug\LiteDB.dll
+D:\C-sharp\QuanLyTaiChinh\bin\Debug\LiteDB.xml
+D:\C-sharp\QuanLyTaiChinh\obj\Debug\QuanLyTaiChinh.Properties.Resources.resources
+D:\C-sharp\QuanLyTaiChinh\obj\Debug\QuanLyTaiChinh.MainFrame.resources
+D:\C-sharp\QuanLyTaiChinh\obj\Debug\QuanLyTaiChinh.csproj.GenerateResource.cache
+D:\C-sharp\QuanLyTaiChinh\obj\Debug\QuanLyTaiChinh.csproj.CoreCompileInputs.cache
+D:\C-sharp\QuanLyTaiChinh\obj\Debug\QuanLyTaiChinh.csproj.CopyComplete
+D:\C-sharp\QuanLyTaiChinh\obj\Debug\QuanLyTaiChinh.exe
+D:\C-sharp\QuanLyTaiChinh\obj\Debug\QuanLyTaiChinh.pdb
+D:\C-sharp\QuanLyTaiChinh\obj\Debug\QuanLyTaiChinh.Views.ThemThuNhap.resources
+D:\C-sharp\QuanLyTaiChinh\obj\Debug\PopupEffect.transparentBg.resources
+D:\C-sharp\QuanLyTaiChinh - ver1\bin\Debug\QuanLyTaiChinh.exe.config
+D:\C-sharp\QuanLyTaiChinh - ver1\bin\Debug\QuanLyTaiChinh.exe
+D:\C-sharp\QuanLyTaiChinh - ver1\bin\Debug\QuanLyTaiChinh.pdb
+D:\C-sharp\QuanLyTaiChinh - ver1\bin\Debug\EasyHTMLReports.dll
+D:\C-sharp\QuanLyTaiChinh - ver1\bin\Debug\LiteDB.dll
+D:\C-sharp\QuanLyTaiChinh - ver1\bin\Debug\LiteDB.xml
+D:\C-sharp\QuanLyTaiChinh - ver1\obj\Debug\QuanLyTaiChinh.csprojAssemblyReference.cache
+D:\C-sharp\QuanLyTaiChinh - ver1\obj\Debug\PopupEffect.transparentBg.resources
+D:\C-sharp\QuanLyTaiChinh - ver1\obj\Debug\QuanLyTaiChinh.Properties.Resources.resources
+D:\C-sharp\QuanLyTaiChinh - ver1\obj\Debug\QuanLyTaiChinh.MainFrame.resources
+D:\C-sharp\QuanLyTaiChinh - ver1\obj\Debug\QuanLyTaiChinh.Views.ThemThuNhap.resources
+D:\C-sharp\QuanLyTaiChinh - ver1\obj\Debug\QuanLyTaiChinh.csproj.GenerateResource.cache
+D:\C-sharp\QuanLyTaiChinh - ver1\obj\Debug\QuanLyTaiChinh.csproj.CoreCompileInputs.cache
+D:\C-sharp\QuanLyTaiChinh - ver1\obj\Debug\QuanLyTaiChinh.csproj.CopyComplete
+D:\C-sharp\QuanLyTaiChinh - ver1\obj\Debug\QuanLyTaiChinh.exe
+D:\C-sharp\QuanLyTaiChinh - ver1\obj\Debug\QuanLyTaiChinh.pdb
+D:\C-sharp\QuanLyTaiChinh - ver1\obj\Debug\QuanLyTaiChinh.Controls.ThuNhapCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - ver1\obj\Debug\QuanLyTaiChinh.Controls.QuyTienCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - ver1\obj\Debug\QuanLyTaiChinh.Controls.ChiTieuCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - ver1\obj\Debug\QuanLyTaiChinh.Controls.TietKiemCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - ver1\obj\Debug\QuanLyTaiChinh.Controls.TaiKhoanCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - ver1\obj\Debug\QuanLyTaiChinh.Controls.BaoCaoCtrl.resources
+D:\C-sharp\QuanLyTaiChinh\obj\Debug\QuanLyTaiChinh.Controls.BaoCaoCtrl.resources
+D:\C-sharp\QuanLyTaiChinh\obj\Debug\QuanLyTaiChinh.Controls.ChiTieuCtrl.resources
+D:\C-sharp\QuanLyTaiChinh\obj\Debug\QuanLyTaiChinh.Controls.QuyTienCtrl.resources
+D:\C-sharp\QuanLyTaiChinh\obj\Debug\QuanLyTaiChinh.Controls.TaiKhoanCtrl.resources
+D:\C-sharp\QuanLyTaiChinh\obj\Debug\QuanLyTaiChinh.Controls.ThuNhapCtrl.resources
+D:\C-sharp\QuanLyTaiChinh\obj\Debug\QuanLyTaiChinh.Controls.TietKiemCtrl.resources
+D:\C-sharp\QuanLyTaiChinh\obj\Debug\QuanLyTaiChinh.Views.ThemChiTieu.resources
+D:\C-sharp\QuanLyTaiChinh\obj\Debug\QuanLyTaiChinh.Views.ThemTaiKhoan.resources
+D:\C-sharp\QuanLyTaiChinh\obj\Debug\QuanLyTaiChinh.Views.ThemTietKiem.resources
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\bin\Debug\QuanLyTaiChinh.exe.config
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\bin\Debug\QuanLyTaiChinh.exe
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\bin\Debug\QuanLyTaiChinh.pdb
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\bin\Debug\EasyHTMLReports.dll
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\bin\Debug\LiteDB.dll
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\bin\Debug\LiveCharts.dll
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\bin\Debug\LiveCharts.WinForms.dll
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\bin\Debug\LiveCharts.Wpf.dll
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\bin\Debug\LiteDB.xml
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\bin\Debug\LiveCharts.pdb
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\bin\Debug\LiveCharts.xml
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\bin\Debug\LiveCharts.WinForms.pdb
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\bin\Debug\LiveCharts.WinForms.xml
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\bin\Debug\LiveCharts.Wpf.pdb
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\bin\Debug\LiveCharts.Wpf.xml
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\obj\Debug\QuanLyTaiChinh.csprojAssemblyReference.cache
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\obj\Debug\QuanLyTaiChinh.Controls.BaoCaoCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\obj\Debug\QuanLyTaiChinh.Controls.ChiTieuCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\obj\Debug\QuanLyTaiChinh.Controls.QuyTienCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\obj\Debug\QuanLyTaiChinh.Controls.TaiKhoanCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\obj\Debug\QuanLyTaiChinh.Controls.ThuNhapCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\obj\Debug\QuanLyTaiChinh.Controls.TietKiemCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\obj\Debug\PopupEffect.transparentBg.resources
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\obj\Debug\QuanLyTaiChinh.Properties.Resources.resources
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\obj\Debug\QuanLyTaiChinh.MainFrame.resources
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\obj\Debug\QuanLyTaiChinh.Views.ThemChiTieu.resources
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\obj\Debug\QuanLyTaiChinh.Views.ThemTaiKhoan.resources
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\obj\Debug\QuanLyTaiChinh.Views.ThemThuNhap.resources
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\obj\Debug\QuanLyTaiChinh.Views.ThemTietKiem.resources
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\obj\Debug\QuanLyTaiChinh.csproj.GenerateResource.cache
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\obj\Debug\QuanLyTaiChinh.csproj.CoreCompileInputs.cache
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\obj\Debug\QuanLyTaiChinh.csproj.CopyComplete
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\obj\Debug\QuanLyTaiChinh.exe
+D:\C-sharp\QuanLyTaiChinh - 1 - ThemTaiKhoan\obj\Debug\QuanLyTaiChinh.pdb
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\bin\Debug\QuanLyTaiChinh.exe.config
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\bin\Debug\QuanLyTaiChinh.exe
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\bin\Debug\QuanLyTaiChinh.pdb
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\bin\Debug\EasyHTMLReports.dll
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\bin\Debug\LiteDB.dll
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\bin\Debug\LiveCharts.dll
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\bin\Debug\LiveCharts.WinForms.dll
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\bin\Debug\LiveCharts.Wpf.dll
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\bin\Debug\LiteDB.xml
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\bin\Debug\LiveCharts.pdb
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\bin\Debug\LiveCharts.xml
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\bin\Debug\LiveCharts.WinForms.pdb
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\bin\Debug\LiveCharts.WinForms.xml
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\bin\Debug\LiveCharts.Wpf.pdb
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\bin\Debug\LiveCharts.Wpf.xml
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\obj\Debug\QuanLyTaiChinh.csprojAssemblyReference.cache
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\obj\Debug\QuanLyTaiChinh.Controls.BaoCaoCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\obj\Debug\QuanLyTaiChinh.Controls.ChiTieuCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\obj\Debug\QuanLyTaiChinh.Controls.QuyTienCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\obj\Debug\QuanLyTaiChinh.Controls.TaiKhoanCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\obj\Debug\QuanLyTaiChinh.Controls.ThuNhapCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\obj\Debug\QuanLyTaiChinh.Controls.TietKiemCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\obj\Debug\PopupEffect.transparentBg.resources
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\obj\Debug\QuanLyTaiChinh.Properties.Resources.resources
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\obj\Debug\QuanLyTaiChinh.MainFrame.resources
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\obj\Debug\QuanLyTaiChinh.Views.ThemChiTieu.resources
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\obj\Debug\QuanLyTaiChinh.Views.ThemTaiKhoan.resources
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\obj\Debug\QuanLyTaiChinh.Views.ThemThuNhap.resources
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\obj\Debug\QuanLyTaiChinh.Views.ThemTietKiem.resources
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\obj\Debug\QuanLyTaiChinh.csproj.GenerateResource.cache
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\obj\Debug\QuanLyTaiChinh.csproj.CoreCompileInputs.cache
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\obj\Debug\QuanLyTaiChinh.csproj.CopyComplete
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\obj\Debug\QuanLyTaiChinh.exe
+D:\C-sharp\QuanLyTaiChinh - 2 - ThemThuNhap (3)\obj\Debug\QuanLyTaiChinh.pdb
+D:\C-sharp\QuanLyTaiChinh\obj\Debug\QuanLyTaiChinh.csprojAssemblyReference.cache
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\bin\Debug\QuanLyTaiChinh.exe.config
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\bin\Debug\QuanLyTaiChinh.exe
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\bin\Debug\QuanLyTaiChinh.pdb
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\bin\Debug\EasyHTMLReports.dll
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\bin\Debug\LiteDB.dll
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\bin\Debug\LiteDB.xml
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\obj\Debug\QuanLyTaiChinh.csprojAssemblyReference.cache
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\obj\Debug\QuanLyTaiChinh.Controls.BaoCaoCtrl.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\obj\Debug\QuanLyTaiChinh.Controls.ChiTieuCtrl.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\obj\Debug\QuanLyTaiChinh.Controls.QuyTienCtrl.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\obj\Debug\QuanLyTaiChinh.Controls.TaiKhoanCtrl.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\obj\Debug\QuanLyTaiChinh.Controls.ThuNhapCtrl.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\obj\Debug\QuanLyTaiChinh.Controls.TietKiemCtrl.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\obj\Debug\PopupEffect.transparentBg.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\obj\Debug\QuanLyTaiChinh.Properties.Resources.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\obj\Debug\QuanLyTaiChinh.MainFrame.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\obj\Debug\QuanLyTaiChinh.Views.ThemChiTieu.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\obj\Debug\QuanLyTaiChinh.Views.ThemTaiKhoan.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\obj\Debug\QuanLyTaiChinh.Views.ThemThuNhap.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\obj\Debug\QuanLyTaiChinh.Views.ThemTietKiem.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\obj\Debug\QuanLyTaiChinh.csproj.GenerateResource.cache
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\obj\Debug\QuanLyTaiChinh.csproj.CoreCompileInputs.cache
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\obj\Debug\QuanLyTaiChinh.csproj.CopyComplete
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\obj\Debug\QuanLyTaiChinh.exe
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh -1- ThemThuNhap\obj\Debug\QuanLyTaiChinh.pdb
+D:\C-sharp\QuanLyTaiChinh - ver1\obj\Debug\QuanLyTaiChinh.Views.ThemChiTieu.resources
+D:\C-sharp\QuanLyTaiChinh - ver1\obj\Debug\QuanLyTaiChinh.Views.ThemTaiKhoan.resources
+D:\C-sharp\QuanLyTaiChinh - ver1\obj\Debug\QuanLyTaiChinh.Views.ThemTietKiem.resources
+D:\C-sharp\QuanLyTaiChinh - ver2\bin\Debug\QuanLyTaiChinh.exe.config
+D:\C-sharp\QuanLyTaiChinh - ver2\bin\Debug\QuanLyTaiChinh.exe
+D:\C-sharp\QuanLyTaiChinh - ver2\bin\Debug\QuanLyTaiChinh.pdb
+D:\C-sharp\QuanLyTaiChinh - ver2\bin\Debug\EasyHTMLReports.dll
+D:\C-sharp\QuanLyTaiChinh - ver2\bin\Debug\LiteDB.dll
+D:\C-sharp\QuanLyTaiChinh - ver2\bin\Debug\LiteDB.xml
+D:\C-sharp\QuanLyTaiChinh - ver2\obj\Debug\QuanLyTaiChinh.csprojAssemblyReference.cache
+D:\C-sharp\QuanLyTaiChinh - ver2\obj\Debug\QuanLyTaiChinh.Controls.BaoCaoCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - ver2\obj\Debug\QuanLyTaiChinh.Controls.ChiTieuCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - ver2\obj\Debug\QuanLyTaiChinh.Controls.QuyTienCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - ver2\obj\Debug\QuanLyTaiChinh.Controls.TaiKhoanCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - ver2\obj\Debug\QuanLyTaiChinh.Controls.ThuNhapCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - ver2\obj\Debug\QuanLyTaiChinh.Controls.TietKiemCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - ver2\obj\Debug\PopupEffect.transparentBg.resources
+D:\C-sharp\QuanLyTaiChinh - ver2\obj\Debug\QuanLyTaiChinh.Properties.Resources.resources
+D:\C-sharp\QuanLyTaiChinh - ver2\obj\Debug\QuanLyTaiChinh.MainFrame.resources
+D:\C-sharp\QuanLyTaiChinh - ver2\obj\Debug\QuanLyTaiChinh.Views.ThemChiTieu.resources
+D:\C-sharp\QuanLyTaiChinh - ver2\obj\Debug\QuanLyTaiChinh.Views.ThemTaiKhoan.resources
+D:\C-sharp\QuanLyTaiChinh - ver2\obj\Debug\QuanLyTaiChinh.Views.ThemThuNhap.resources
+D:\C-sharp\QuanLyTaiChinh - ver2\obj\Debug\QuanLyTaiChinh.Views.ThemTietKiem.resources
+D:\C-sharp\QuanLyTaiChinh - ver2\obj\Debug\QuanLyTaiChinh.csproj.GenerateResource.cache
+D:\C-sharp\QuanLyTaiChinh - ver2\obj\Debug\QuanLyTaiChinh.csproj.CoreCompileInputs.cache
+D:\C-sharp\QuanLyTaiChinh - ver2\obj\Debug\QuanLyTaiChinh.csproj.CopyComplete
+D:\C-sharp\QuanLyTaiChinh - ver2\obj\Debug\QuanLyTaiChinh.exe
+D:\C-sharp\QuanLyTaiChinh - ver2\obj\Debug\QuanLyTaiChinh.pdb
+D:\C-sharp\QuanLyTaiChinh - ver3\bin\Debug\QuanLyTaiChinh.exe.config
+D:\C-sharp\QuanLyTaiChinh - ver3\bin\Debug\QuanLyTaiChinh.exe
+D:\C-sharp\QuanLyTaiChinh - ver3\bin\Debug\QuanLyTaiChinh.pdb
+D:\C-sharp\QuanLyTaiChinh - ver3\bin\Debug\EasyHTMLReports.dll
+D:\C-sharp\QuanLyTaiChinh - ver3\bin\Debug\LiteDB.dll
+D:\C-sharp\QuanLyTaiChinh - ver3\bin\Debug\LiteDB.xml
+D:\C-sharp\QuanLyTaiChinh - ver3\obj\Debug\QuanLyTaiChinh.csprojAssemblyReference.cache
+D:\C-sharp\QuanLyTaiChinh - ver3\obj\Debug\QuanLyTaiChinh.Controls.BaoCaoCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - ver3\obj\Debug\QuanLyTaiChinh.Controls.ChiTieuCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - ver3\obj\Debug\QuanLyTaiChinh.Controls.QuyTienCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - ver3\obj\Debug\QuanLyTaiChinh.Controls.TaiKhoanCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - ver3\obj\Debug\QuanLyTaiChinh.Controls.ThuNhapCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - ver3\obj\Debug\QuanLyTaiChinh.Controls.TietKiemCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - ver3\obj\Debug\PopupEffect.transparentBg.resources
+D:\C-sharp\QuanLyTaiChinh - ver3\obj\Debug\QuanLyTaiChinh.Properties.Resources.resources
+D:\C-sharp\QuanLyTaiChinh - ver3\obj\Debug\QuanLyTaiChinh.MainFrame.resources
+D:\C-sharp\QuanLyTaiChinh - ver3\obj\Debug\QuanLyTaiChinh.Views.ThemChiTieu.resources
+D:\C-sharp\QuanLyTaiChinh - ver3\obj\Debug\QuanLyTaiChinh.Views.ThemTaiKhoan.resources
+D:\C-sharp\QuanLyTaiChinh - ver3\obj\Debug\QuanLyTaiChinh.Views.ThemThuNhap.resources
+D:\C-sharp\QuanLyTaiChinh - ver3\obj\Debug\QuanLyTaiChinh.Views.ThemTietKiem.resources
+D:\C-sharp\QuanLyTaiChinh - ver3\obj\Debug\QuanLyTaiChinh.csproj.GenerateResource.cache
+D:\C-sharp\QuanLyTaiChinh - ver3\obj\Debug\QuanLyTaiChinh.csproj.CoreCompileInputs.cache
+D:\C-sharp\QuanLyTaiChinh - ver3\obj\Debug\QuanLyTaiChinh.csproj.CopyComplete
+D:\C-sharp\QuanLyTaiChinh - ver3\obj\Debug\QuanLyTaiChinh.exe
+D:\C-sharp\QuanLyTaiChinh - ver3\obj\Debug\QuanLyTaiChinh.pdb
+D:\C-sharp\QuanLyTaiChinh - ver4\bin\Debug\QuanLyTaiChinh.exe.config
+D:\C-sharp\QuanLyTaiChinh - ver4\bin\Debug\QuanLyTaiChinh.exe
+D:\C-sharp\QuanLyTaiChinh - ver4\bin\Debug\QuanLyTaiChinh.pdb
+D:\C-sharp\QuanLyTaiChinh - ver4\bin\Debug\EasyHTMLReports.dll
+D:\C-sharp\QuanLyTaiChinh - ver4\bin\Debug\LiteDB.dll
+D:\C-sharp\QuanLyTaiChinh - ver4\bin\Debug\LiteDB.xml
+D:\C-sharp\QuanLyTaiChinh - ver4\obj\Debug\QuanLyTaiChinh.csprojAssemblyReference.cache
+D:\C-sharp\QuanLyTaiChinh - ver4\obj\Debug\QuanLyTaiChinh.Controls.BaoCaoCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - ver4\obj\Debug\QuanLyTaiChinh.Controls.ChiTieuCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - ver4\obj\Debug\QuanLyTaiChinh.Controls.QuyTienCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - ver4\obj\Debug\QuanLyTaiChinh.Controls.TaiKhoanCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - ver4\obj\Debug\QuanLyTaiChinh.Controls.ThuNhapCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - ver4\obj\Debug\QuanLyTaiChinh.Controls.TietKiemCtrl.resources
+D:\C-sharp\QuanLyTaiChinh - ver4\obj\Debug\PopupEffect.transparentBg.resources
+D:\C-sharp\QuanLyTaiChinh - ver4\obj\Debug\QuanLyTaiChinh.Properties.Resources.resources
+D:\C-sharp\QuanLyTaiChinh - ver4\obj\Debug\QuanLyTaiChinh.MainFrame.resources
+D:\C-sharp\QuanLyTaiChinh - ver4\obj\Debug\QuanLyTaiChinh.Views.ThemChiTieu.resources
+D:\C-sharp\QuanLyTaiChinh - ver4\obj\Debug\QuanLyTaiChinh.Views.ThemTaiKhoan.resources
+D:\C-sharp\QuanLyTaiChinh - ver4\obj\Debug\QuanLyTaiChinh.Views.ThemThuNhap.resources
+D:\C-sharp\QuanLyTaiChinh - ver4\obj\Debug\QuanLyTaiChinh.Views.ThemTietKiem.resources
+D:\C-sharp\QuanLyTaiChinh - ver4\obj\Debug\QuanLyTaiChinh.csproj.GenerateResource.cache
+D:\C-sharp\QuanLyTaiChinh - ver4\obj\Debug\QuanLyTaiChinh.csproj.CoreCompileInputs.cache
+D:\C-sharp\QuanLyTaiChinh - ver4\obj\Debug\QuanLyTaiChinh.csproj.CopyComplete
+D:\C-sharp\QuanLyTaiChinh - ver4\obj\Debug\QuanLyTaiChinh.exe
+D:\C-sharp\QuanLyTaiChinh - ver4\obj\Debug\QuanLyTaiChinh.pdb
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\bin\Debug\QuanLyTaiChinh.exe.config
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\bin\Debug\QuanLyTaiChinh.exe
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\bin\Debug\QuanLyTaiChinh.pdb
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\bin\Debug\EasyHTMLReports.dll
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\bin\Debug\LiteDB.dll
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\bin\Debug\LiteDB.xml
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\obj\Debug\QuanLyTaiChinh.csprojAssemblyReference.cache
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\obj\Debug\QuanLyTaiChinh.Controls.BaoCaoCtrl.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\obj\Debug\QuanLyTaiChinh.Controls.ChiTieuCtrl.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\obj\Debug\QuanLyTaiChinh.Controls.QuyTienCtrl.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\obj\Debug\QuanLyTaiChinh.Controls.TaiKhoanCtrl.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\obj\Debug\QuanLyTaiChinh.Controls.ThuNhapCtrl.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\obj\Debug\QuanLyTaiChinh.Controls.TietKiemCtrl.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\obj\Debug\PopupEffect.transparentBg.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\obj\Debug\QuanLyTaiChinh.Properties.Resources.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\obj\Debug\QuanLyTaiChinh.MainFrame.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\obj\Debug\QuanLyTaiChinh.Views.ThemChiTieu.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\obj\Debug\QuanLyTaiChinh.Views.ThemTaiKhoan.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\obj\Debug\QuanLyTaiChinh.Views.ThemThuNhap.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\obj\Debug\QuanLyTaiChinh.Views.ThemTietKiem.resources
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\obj\Debug\QuanLyTaiChinh.csproj.GenerateResource.cache
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\obj\Debug\QuanLyTaiChinh.csproj.CoreCompileInputs.cache
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\obj\Debug\QuanLyTaiChinh.csproj.CopyComplete
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\obj\Debug\QuanLyTaiChinh.exe
+D:\Junior\Term 20202\Project II\QuanLyTaiChinh - 4 - BaoCao\obj\Debug\QuanLyTaiChinh.pdb
